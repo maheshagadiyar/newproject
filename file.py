@@ -1,0 +1,5 @@
+file = open("demo", 'r')
+content = file.read(30)
+print(content)
+# toread the file)
+file.close()
